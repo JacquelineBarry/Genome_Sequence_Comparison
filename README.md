@@ -1,8 +1,7 @@
 # Genome Analysis
-This script performs a comparative analysis of the nucleotides of DNA sequences of two 
-genomes
-This script is compatible for use of your own genome .fna files to compute these 
-statistics 
+This script performs a comparative analysis of the nucleotides of DNA sequences from two 
+genomes. It is compatible for use of your own genome .fna files to compute these 
+statistics. 
 ## Functionality
 The script:
 - Counts the number of nucleotides for each genome
