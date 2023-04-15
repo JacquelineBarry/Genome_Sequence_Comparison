@@ -1,10 +1,11 @@
 # Genome Analysis
-This script performs a comparative analysis of the nucleotides of two DNA sequences.
+This script performs a comparative analysis of the nucleotides of DNA sequences of two 
+genomes
 ## Functionality
 The script:
-- counts the number of nucleotides for each genome
-- computes the percentages of each nucleotide in the genotype
-- calculates the longest common shared sequence
+- Counts the number of nucleotides for each genome
+- Computes the percentages of each nucleotide in the genotype
+- Calculates the longest common shared sequence
 ## Usage
 You will first need to install numpy: `pip install numpy`
 ```
