@@ -5,7 +5,7 @@ statistics.
 ## Functionality
 The script:
 - Counts the number of nucleotides for each genome
-- Computes the percentages of each nucleotide in the genotype
+- Computes the percentages of each nucleotide 
 - Calculates the longest common shared sequence
 ## Usage
 You will first need to install numpy: `pip install numpy`
