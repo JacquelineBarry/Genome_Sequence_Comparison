@@ -5,8 +5,8 @@ statistics.
 ## Functionality
 The script:
 - Counts the number of nucleotides for each genome
-- Computes the percentages of each nucleotide 
-- Calculates the longest common shared sequence
+- Computes the percentage of each nucleotide 
+- Calculates the longest common shared sequence between both genomes
 ## Usage
 You will first need to install numpy: `pip install numpy`
 ```
